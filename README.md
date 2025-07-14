@@ -13,3 +13,5 @@ Otherwise you can download the entire project as shown.
 Inside the project the `Playground` scene is setup with a basic environment and a first person character controller.
 
 <img width="413" height="239" alt="scene" src="https://github.com/user-attachments/assets/910434cb-32fd-42a5-a69b-72e229a6d82a" />
+
+<img width="2735" height="1840" alt="image" src="https://github.com/user-attachments/assets/776f1ea3-5848-4dd1-a376-f00a876b5d5c" />
