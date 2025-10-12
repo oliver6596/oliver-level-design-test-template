@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5becb6cded6174673be97e154c2e8088
+timeCreated: 1456496868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo02/Materials/Icebergs 1.mat
+  uploadId: 593968

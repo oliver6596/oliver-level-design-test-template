@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 078b2a90d062e49c9903390f113619d3
+labels:
+- Unlit
+- Shader
+- Flat
+- Gradient
+timeCreated: 1457764325
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Shaders/MasterShaderLocalSpace.shader
+  uploadId: 593968

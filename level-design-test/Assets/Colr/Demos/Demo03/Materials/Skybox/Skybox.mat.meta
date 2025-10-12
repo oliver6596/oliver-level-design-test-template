@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cce90f258fd14410ac8daa6fc467cb0
+timeCreated: 1449675969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo03/Materials/Skybox/Skybox.mat
+  uploadId: 593968

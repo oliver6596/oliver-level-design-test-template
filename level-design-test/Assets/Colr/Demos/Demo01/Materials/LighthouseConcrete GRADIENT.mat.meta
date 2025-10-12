@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf0df169a915548e4a42db90d015ea18
+timeCreated: 1456425563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/LighthouseConcrete GRADIENT.mat
+  uploadId: 593968

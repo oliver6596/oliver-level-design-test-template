@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d4ab08abf7aa4d17bf1c86c6edfb63e
+timeCreated: 1448918265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo02/Materials/Pinetrees.mat
+  uploadId: 593968

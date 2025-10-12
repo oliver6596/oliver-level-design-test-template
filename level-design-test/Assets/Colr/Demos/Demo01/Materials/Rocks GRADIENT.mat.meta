@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4207a21fb7e1b45b0836d048112452c8
+timeCreated: 1456425650
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/Rocks GRADIENT.mat
+  uploadId: 593968

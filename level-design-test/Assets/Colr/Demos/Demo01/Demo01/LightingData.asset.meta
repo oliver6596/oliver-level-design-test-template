@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3d8e56b829914bd7a3696445913561f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Demo01/LightingData.asset
+  uploadId: 593968

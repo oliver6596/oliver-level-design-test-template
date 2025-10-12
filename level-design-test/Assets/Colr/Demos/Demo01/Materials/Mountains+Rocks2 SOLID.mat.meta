@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 178fa0a30a46b48c19937fa05a8380ae
+timeCreated: 1456425582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/Mountains+Rocks2 SOLID.mat
+  uploadId: 593968

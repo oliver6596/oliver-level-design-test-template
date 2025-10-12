@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 227cc987113714fd480a9cb86bf13b3b
+timeCreated: 1456480873
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo03/Materials/Platform 2.mat
+  uploadId: 593968

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7170c4bedc8d48f98aac581e80f4954
+timeCreated: 1456425443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/Fruit+HouseWindowFrame SOLID.mat
+  uploadId: 593968

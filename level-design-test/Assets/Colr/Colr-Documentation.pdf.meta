@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5ed1ce83a65148eab20cec585140afe
+timeCreated: 1458030735
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Colr-Documentation.pdf
+  uploadId: 593968

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b0883d966d624e37a6d150eaa6cfc1b
+timeCreated: 1449675969
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo02/Demo02.unity
+  uploadId: 593968

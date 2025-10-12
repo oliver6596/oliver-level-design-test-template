@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdaad3f9b068f4506aec555fb4f37db4
+timeCreated: 1456425173
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/Skybox/GradientSkybox.mat
+  uploadId: 593968

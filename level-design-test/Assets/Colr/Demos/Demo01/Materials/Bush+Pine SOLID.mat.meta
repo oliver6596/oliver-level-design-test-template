@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee4c1275aed4c47688ec6847858067bf
+timeCreated: 1456425392
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/Bush+Pine SOLID.mat
+  uploadId: 593968

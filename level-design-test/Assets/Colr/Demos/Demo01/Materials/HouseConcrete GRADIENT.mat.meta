@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48db7a04e0e9e49238366b54d562ce57
+timeCreated: 1456425455
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/HouseConcrete GRADIENT.mat
+  uploadId: 593968

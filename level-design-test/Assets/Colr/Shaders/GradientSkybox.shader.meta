@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e32cae2a5bbfb41888ef2ba8391ab87d
+labels:
+- Unlit
+- Shader
+- Flat
+- Gradient
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Shaders/GradientSkybox.shader
+  uploadId: 593968

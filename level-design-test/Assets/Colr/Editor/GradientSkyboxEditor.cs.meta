@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fb06f6d66c6c3423c82d8b5ed585ec3e
+timeCreated: 1453992704
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Editor/GradientSkyboxEditor.cs
+  uploadId: 593968

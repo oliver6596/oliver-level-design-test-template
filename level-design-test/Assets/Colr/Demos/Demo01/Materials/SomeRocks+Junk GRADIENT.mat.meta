@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e48b3c05a7b3d4beead1dff38472753f
+timeCreated: 1456425683
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 57591
+  packageName: "COLR \u2013 Coloring Redefined"
+  packageVersion: 2.5.0
+  assetPath: Assets/Colr/Demos/Demo01/Materials/SomeRocks+Junk GRADIENT.mat
+  uploadId: 593968
