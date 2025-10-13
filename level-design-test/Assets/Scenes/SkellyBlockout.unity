@@ -1379,8 +1379,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -21471,8 +21471,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -23356,6 +23356,7 @@ GameObject:
   - component: {fileID: 831130188}
   - component: {fileID: 831130190}
   - component: {fileID: 831130189}
+  - component: {fileID: 831130191}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -23412,8 +23413,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -23466,6 +23467,28 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!95 &831130191
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831130187}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d41b5f11bf5bb7741a1b83ef07112896, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!4 &832209567 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4351663343407892, guid: e3cd882847f3b274485b6d2e747fea8a, type: 3}
@@ -32703,6 +32726,7 @@ GameObject:
   - component: {fileID: 1185141578}
   - component: {fileID: 1185141580}
   - component: {fileID: 1185141579}
+  - component: {fileID: 1185141581}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -32760,7 +32784,7 @@ Light:
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
   m_Intensity: 0.48
-  m_Range: 105.78
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -32813,6 +32837,28 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!95 &1185141581
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1185141577}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7248ce8046c34a142859dde03f187196, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &1185177598
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39629,8 +39675,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -55824,8 +55870,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -58571,8 +58617,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -58918,8 +58964,8 @@ Light:
   serializedVersion: 11
   m_Type: 2
   m_Color: {r: 0.6244608, g: 1, b: 0, a: 1}
-  m_Intensity: 0.48
-  m_Range: 105.78
+  m_Intensity: 0
+  m_Range: 111.89
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
