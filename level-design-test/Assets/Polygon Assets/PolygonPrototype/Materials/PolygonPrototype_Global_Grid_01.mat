@@ -31,10 +31,12 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _Metallic: 0.509
     - _Parallax: 0.02
+    - _Smoothness: 0.692
     m_Colors:
-    - _BaseColor: {r: 0.87169814, g: 0.7746278, b: 0.5180847, a: 0}
-    - _Color: {r: 0.87169814, g: 0.7746278, b: 0.51808465, a: 0}
+    - _BaseColor: {r: 1, g: 0.8065804, b: 0.53396225, a: 0}
+    - _Color: {r: 1, g: 0.8065804, b: 0.5339622, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &7827903180451927485
